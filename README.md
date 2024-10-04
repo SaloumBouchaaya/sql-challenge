@@ -10,4 +10,6 @@ There are six CSV files that I use to design tables to hold the data (Data Model
 I imported the CSV files into a SQL database (Data Engineering)
 Finally, I used querys and answered specific questions about the data. (Data Analysis)
 
+CSV files located in "data" folder
+.SQL & .PNG files in "employee_sql" folder
 CSV files provided by edX Data Analytics Bootcamp Berkely 
